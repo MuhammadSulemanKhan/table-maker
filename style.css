@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.one{
+    text-align: center;
+    padding: 10px;
+
+}
+.two{
+    height: 10vh;
+    width: 100%;
+    background-color: aqua;
+}
+.three{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#btn{
+    background-color: black;
+    color: white;
+    height: 8vh;
+    width: 40vh;
+
+}
+#print{
+    height: 50vh;
+    width: 50vh;
+    border: 1vh solid;
+    text-align: center;
+    padding-top: 5vh;
+}
+#input{
+    width: 50vh;
+    height: 5vh;
+}
